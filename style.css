@@ -84,7 +84,7 @@ body
   justify-content:bottom;
   margin:10% auto;
 }
-#backBtn,#nextBtn
+#backBtne,#nextBtne
 {
   width:50px;
   cursor: pointer;
